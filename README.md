@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @joshburgermusic
+- 👀 I’m interested in algorythms, cybersecurity and music
+- 🌱 I’m currently learning cybersecurity and networking
+- 📫 To reach me: joshuaterranova01@gmail.com
