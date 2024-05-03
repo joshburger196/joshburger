@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @joshburgermusic
-- 👀 I’m interested in algorythms, cybersecurity and music
-- 🌱 I’m currently learning cybersecurity and networking
+- 👀 I’m a 22yo fullstack developer, artist and musician
+- 🌱 I’m currently learning Ionic and Angular
 - 📫 To reach me: joshuaterranova01@gmail.com
