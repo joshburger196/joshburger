@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joshburger
-- 👀 I’m a 22yo fullstack developer, artist and musician
+- 👋 Hi, I’m Joshua
+- 👀 I’m a 23yo fullstack developer, artist and musician
 - 🌱 I’m currently learning Ionic and Angular
 - 📫 To reach me: joshuaterranova01@gmail.com
