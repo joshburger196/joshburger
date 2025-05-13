@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Joshua
 - 👀 I’m a 23yo fullstack developer, artist and musician
-- 🌱 I’m currently learning Ionic and Angular
+- 🌱 I’m currently learning React
 - 📫 To reach me: joshuaterranova01@gmail.com
